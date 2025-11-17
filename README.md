@@ -113,7 +113,7 @@ The goal is to **understand sales patterns**, identify **top-performing products
 
 ## 🚀 How to Use
 
-1. Download the Excel file (`Blinkit_Sales_Analysis.xlsx`).  
+1. [Download the Excel file](https://1drv.ms/u/c/47cb38049d667fa0/ESiaKCTNIBJJoBSRRd3w4qYBbDvvi0yNCy28lS75U1J2yw?e=tDsSwR).  
 2. Open it in **Microsoft Excel** (recommended version: Office 2019 or later).  
 3. Use slicers to filter data dynamically (e.g., by outlet size, item type, or fat content).  
 4. Explore charts and KPI metrics to gain insights into Blinkit’s sales performance.  
